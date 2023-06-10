@@ -740,6 +740,7 @@ background: #31D0AA;
     
     .subscription-form {
     display: flex;
+    gap: 24px;
     
     }
     
